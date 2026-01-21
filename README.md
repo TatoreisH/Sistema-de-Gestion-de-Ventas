@@ -1,4 +1,6 @@
-## Sistema-de-Gestion-de-Ventas
+## Sistema de Gestion de Ventas
+
+Arquitectura de software para un Sistema de Gestión de Ventas que aplica el patron arquitectónico Model-Vista-Controladora.
 
 ## Funcionalidades
 - Gestion de ventas
