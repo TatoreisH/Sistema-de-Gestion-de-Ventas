@@ -1,7 +1,15 @@
 ## Sistema-de-Gestion-de-Ventas
 
-## Sistema que gestiona ventas, clientes, productos, reportes y consultas.
+## Funcionalidades
+- Gestion de ventas
+- Gestion de clientes
+- Gestion de productos
+- Reportes
+- Consultas.
 
-## Hecho en lenguaje C# en VS 2022 utilizando un patrón MVC.
-
-## Incluye base de datos con SQL utilizando Entity Framework
+## Tecnologias
+- C#
+- SQL
+- Entity Framework
+- Patron MVC
+- Visual Studio 2022
