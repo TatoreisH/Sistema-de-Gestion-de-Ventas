@@ -1,0 +1,764 @@
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.exe
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.deps.json
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.runtimeconfig.json
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.pdb
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Controladora.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Entidades.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Modelo.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Controladora.pdb
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Entidades.pdb
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Modelo.pdb
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.Form1.resources
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.AssemblyInfo.cs
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.csproj.Up2Date
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\obj\Debug\net8.0-windows\refint\Vista.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.pdb
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.genruntimeconfig.cache
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Vista\obj\Debug\net8.0-windows\ref\Vista.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.exe
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.deps.json
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.runtimeconfig.json
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.pdb
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Controladora.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Entidades.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Modelo.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Controladora.pdb
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Entidades.pdb
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Modelo.pdb
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormCategorias.resources
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormClientes.resources
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormProductos.resources
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormReportes.resources
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormSucursales.resources
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormVentas.resources
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.Menu.resources
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.AssemblyInfo.cs
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.csproj.Up2Date
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\refint\Vista.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.pdb
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.genruntimeconfig.cache
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\ref\Vista.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.exe
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.deps.json
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.runtimeconfig.json
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.pdb
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Controladora.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Entidades.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Modelo.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Controladora.pdb
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Entidades.pdb
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Modelo.pdb
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormCategorias.resources
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormClientes.resources
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormProductos.resources
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormReportes.resources
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormSucursales.resources
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormVentas.resources
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.Menu.resources
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.AssemblyInfo.cs
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.csproj.Up2Date
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\refint\Vista.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.pdb
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.genruntimeconfig.cache
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Vista\obj\Debug\net8.0-windows\ref\Vista.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.exe
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.deps.json
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.runtimeconfig.json
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.pdb
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Controladora.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Entidades.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Modelo.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Controladora.pdb
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Entidades.pdb
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Modelo.pdb
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormCategorias.resources
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormClientes.resources
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormProductos.resources
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormReportes.resources
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormSucursales.resources
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormVentas.resources
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.Menu.resources
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.AssemblyInfo.cs
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.csproj.Up2Date
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\refint\Vista.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.pdb
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.genruntimeconfig.cache
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\ref\Vista.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.exe
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.deps.json
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.runtimeconfig.json
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Vista.pdb
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Controladora.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Entidades.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Modelo.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Controladora.pdb
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Entidades.pdb
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\bin\Debug\net8.0-windows\Modelo.pdb
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormCategorias.resources
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormClientes.resources
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormProductos.resources
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormReportes.resources
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormSucursales.resources
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.FormVentas.resources
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.Menu.resources
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.AssemblyInfo.cs
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.csproj.Up2Date
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\refint\Vista.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.pdb
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\Vista.genruntimeconfig.cache
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Vista\obj\Debug\net8.0-windows\ref\Vista.dll

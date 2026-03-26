@@ -1,0 +1,85 @@
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Modelo\bin\Debug\net8.0\Modelo.deps.json
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Modelo\bin\Debug\net8.0\Modelo.runtimeconfig.json
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Modelo\bin\Debug\net8.0\Modelo.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Modelo\bin\Debug\net8.0\Modelo.pdb
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Modelo\bin\Debug\net8.0\Entidades.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Modelo\bin\Debug\net8.0\Entidades.pdb
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfo.cs
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.csproj.Up2Date
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Modelo\obj\Debug\net8.0\refint\Modelo.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.pdb
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.genruntimeconfig.cache
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Modelo\obj\Debug\net8.0\ref\Modelo.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Modelo\bin\Debug\net8.0\Modelo.deps.json
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Modelo\bin\Debug\net8.0\Modelo.runtimeconfig.json
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Modelo\bin\Debug\net8.0\Modelo.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Modelo\bin\Debug\net8.0\Modelo.pdb
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Modelo\bin\Debug\net8.0\Entidades.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Modelo\bin\Debug\net8.0\Entidades.pdb
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfo.cs
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.csproj.Up2Date
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Modelo\obj\Debug\net8.0\refint\Modelo.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.pdb
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.genruntimeconfig.cache
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Modelo\obj\Debug\net8.0\ref\Modelo.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Modelo\bin\Debug\net8.0\Modelo.deps.json
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Modelo\bin\Debug\net8.0\Modelo.runtimeconfig.json
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Modelo\bin\Debug\net8.0\Modelo.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Modelo\bin\Debug\net8.0\Modelo.pdb
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Modelo\bin\Debug\net8.0\Entidades.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Modelo\bin\Debug\net8.0\Entidades.pdb
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfo.cs
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.csproj.Up2Date
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Modelo\obj\Debug\net8.0\refint\Modelo.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.pdb
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.genruntimeconfig.cache
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Modelo\obj\Debug\net8.0\ref\Modelo.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Modelo\bin\Debug\net8.0\Modelo.deps.json
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Modelo\bin\Debug\net8.0\Modelo.runtimeconfig.json
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Modelo\bin\Debug\net8.0\Modelo.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Modelo\bin\Debug\net8.0\Modelo.pdb
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Modelo\bin\Debug\net8.0\Entidades.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Modelo\bin\Debug\net8.0\Entidades.pdb
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfo.cs
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.csproj.Up2Date
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Modelo\obj\Debug\net8.0\refint\Modelo.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.pdb
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.genruntimeconfig.cache
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Modelo\obj\Debug\net8.0\ref\Modelo.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Modelo\bin\Debug\net8.0\Modelo.deps.json
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Modelo\bin\Debug\net8.0\Modelo.runtimeconfig.json
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Modelo\bin\Debug\net8.0\Modelo.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Modelo\bin\Debug\net8.0\Modelo.pdb
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Modelo\bin\Debug\net8.0\Entidades.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Modelo\bin\Debug\net8.0\Entidades.pdb
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfo.cs
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.csproj.Up2Date
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Modelo\obj\Debug\net8.0\refint\Modelo.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.pdb
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Modelo\obj\Debug\net8.0\Modelo.genruntimeconfig.cache
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Modelo\obj\Debug\net8.0\ref\Modelo.dll

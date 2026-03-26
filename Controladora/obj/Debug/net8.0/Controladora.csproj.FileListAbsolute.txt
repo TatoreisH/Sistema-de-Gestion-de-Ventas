@@ -1,0 +1,95 @@
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Controladora\bin\Debug\net8.0\Controladora.deps.json
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Controladora\bin\Debug\net8.0\Controladora.runtimeconfig.json
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Controladora\bin\Debug\net8.0\Controladora.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Controladora\bin\Debug\net8.0\Controladora.pdb
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Controladora\bin\Debug\net8.0\Entidades.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Controladora\bin\Debug\net8.0\Modelo.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Controladora\bin\Debug\net8.0\Entidades.pdb
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Controladora\bin\Debug\net8.0\Modelo.pdb
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.csproj.AssemblyReference.cache
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.AssemblyInfoInputs.cache
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.AssemblyInfo.cs
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.csproj.CoreCompileInputs.cache
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Controladora\obj\Debug\net8.0\Controla.1EE7A4DA.Up2Date
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Controladora\obj\Debug\net8.0\refint\Controladora.dll
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.pdb
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.genruntimeconfig.cache
+C:\Users\tatab\OneDrive\Desktop\UAI 2do\Programacion\TechStore_S.A\Controladora\obj\Debug\net8.0\ref\Controladora.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Controladora\bin\Debug\net8.0\Controladora.deps.json
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Controladora\bin\Debug\net8.0\Controladora.runtimeconfig.json
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Controladora\bin\Debug\net8.0\Controladora.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Controladora\bin\Debug\net8.0\Controladora.pdb
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Controladora\bin\Debug\net8.0\Entidades.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Controladora\bin\Debug\net8.0\Modelo.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Controladora\bin\Debug\net8.0\Entidades.pdb
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Controladora\bin\Debug\net8.0\Modelo.pdb
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.csproj.AssemblyReference.cache
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.AssemblyInfoInputs.cache
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.AssemblyInfo.cs
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Controladora\obj\Debug\net8.0\Controla.1EE7A4DA.Up2Date
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Controladora\obj\Debug\net8.0\refint\Controladora.dll
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.pdb
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.genruntimeconfig.cache
+C:\Users\joaqu\OneDrive\Desktop\TechStore_S.A\Controladora\obj\Debug\net8.0\ref\Controladora.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.csproj.AssemblyReference.cache
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.AssemblyInfoInputs.cache
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.AssemblyInfo.cs
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.csproj.CoreCompileInputs.cache
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Controladora\obj\Debug\net8.0\refint\Controladora.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.pdb
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Controladora\bin\Debug\net8.0\Controladora.deps.json
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Controladora\bin\Debug\net8.0\Controladora.runtimeconfig.json
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Controladora\bin\Debug\net8.0\Controladora.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Controladora\bin\Debug\net8.0\Controladora.pdb
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Controladora\bin\Debug\net8.0\Entidades.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Controladora\bin\Debug\net8.0\Modelo.dll
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Controladora\bin\Debug\net8.0\Entidades.pdb
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Controladora\bin\Debug\net8.0\Modelo.pdb
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Controladora\obj\Debug\net8.0\Controla.1EE7A4DA.Up2Date
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.genruntimeconfig.cache
+C:\Users\tatab\OneDrive\Desktop\TechStore_S.A\Controladora\obj\Debug\net8.0\ref\Controladora.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Controladora\bin\Debug\net8.0\Controladora.deps.json
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Controladora\bin\Debug\net8.0\Controladora.runtimeconfig.json
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Controladora\bin\Debug\net8.0\Controladora.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Controladora\bin\Debug\net8.0\Controladora.pdb
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Controladora\bin\Debug\net8.0\Entidades.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Controladora\bin\Debug\net8.0\Modelo.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Controladora\bin\Debug\net8.0\Entidades.pdb
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Controladora\bin\Debug\net8.0\Modelo.pdb
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.csproj.AssemblyReference.cache
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.AssemblyInfoInputs.cache
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.AssemblyInfo.cs
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.csproj.CoreCompileInputs.cache
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Controladora\obj\Debug\net8.0\Controla.1EE7A4DA.Up2Date
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Controladora\obj\Debug\net8.0\refint\Controladora.dll
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.pdb
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.genruntimeconfig.cache
+C:\Users\tatab\OneDrive\Desktop\Final Tp\TechStore_S.A\Controladora\obj\Debug\net8.0\ref\Controladora.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Controladora\bin\Debug\net8.0\Controladora.deps.json
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Controladora\bin\Debug\net8.0\Controladora.runtimeconfig.json
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Controladora\bin\Debug\net8.0\Controladora.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Controladora\bin\Debug\net8.0\Controladora.pdb
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Controladora\bin\Debug\net8.0\Entidades.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Controladora\bin\Debug\net8.0\Modelo.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Controladora\bin\Debug\net8.0\Entidades.pdb
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Controladora\bin\Debug\net8.0\Modelo.pdb
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.csproj.AssemblyReference.cache
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.AssemblyInfoInputs.cache
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.AssemblyInfo.cs
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.csproj.CoreCompileInputs.cache
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Controladora\obj\Debug\net8.0\Controla.1EE7A4DA.Up2Date
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Controladora\obj\Debug\net8.0\refint\Controladora.dll
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.pdb
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Controladora\obj\Debug\net8.0\Controladora.genruntimeconfig.cache
+C:\Users\tatab\OneDrive\Desktop\Segundo año ISI\Final Tp\TechStore_S.A\Controladora\obj\Debug\net8.0\ref\Controladora.dll

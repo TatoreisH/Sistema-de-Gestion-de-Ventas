@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4171DEA-3121-4BA4-91C1-9895AAB43F03}|Modelo\\Modelo.csproj|c:\\users\\joaqu\\onedrive\\desktop\\techstore_s.a\\modelo\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4171DEA-3121-4BA4-91C1-9895AAB43F03}|Modelo\\Modelo.csproj|solutionrelative:modelo\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7401C4C5-D34F-4447-B72C-53806857238D}|Controladora\\Controladora.csproj|c:\\users\\joaqu\\onedrive\\desktop\\techstore_s.a\\controladora\\controladora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7401C4C5-D34F-4447-B72C-53806857238D}|Controladora\\Controladora.csproj|solutionrelative:controladora\\controladora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|c:\\users\\joaqu\\onedrive\\desktop\\techstore_s.a\\vista\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|solutionrelative:vista\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|c:\\users\\joaqu\\onedrive\\desktop\\techstore_s.a\\vista\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|solutionrelative:vista\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|c:\\users\\joaqu\\onedrive\\desktop\\techstore_s.a\\vista\\formclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|solutionrelative:vista\\formclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|c:\\users\\joaqu\\onedrive\\desktop\\techstore_s.a\\vista\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|solutionrelative:vista\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|c:\\users\\joaqu\\onedrive\\desktop\\techstore_s.a\\vista\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|solutionrelative:vista\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|c:\\users\\joaqu\\onedrive\\desktop\\techstore_s.a\\vista\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|solutionrelative:vista\\formreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|c:\\users\\joaqu\\onedrive\\desktop\\techstore_s.a\\vista\\formsucursales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|solutionrelative:vista\\formsucursales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|c:\\users\\joaqu\\onedrive\\desktop\\techstore_s.a\\vista\\formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|solutionrelative:vista\\formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|c:\\users\\joaqu\\onedrive\\desktop\\techstore_s.a\\vista\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|solutionrelative:vista\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|c:\\users\\joaqu\\onedrive\\desktop\\techstore_s.a\\vista\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|solutionrelative:vista\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA88B9FC-227C-4AAF-A639-6CD562962037}|Entidades\\Entidades.csproj|c:\\users\\joaqu\\onedrive\\desktop\\techstore_s.a\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA88B9FC-227C-4AAF-A639-6CD562962037}|Entidades\\Entidades.csproj|solutionrelative:entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA88B9FC-227C-4AAF-A639-6CD562962037}|Entidades\\Entidades.csproj|c:\\users\\joaqu\\onedrive\\desktop\\techstore_s.a\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA88B9FC-227C-4AAF-A639-6CD562962037}|Entidades\\Entidades.csproj|solutionrelative:entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|c:\\users\\joaqu\\onedrive\\desktop\\techstore_s.a\\vista\\formproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|solutionrelative:vista\\formproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA88B9FC-227C-4AAF-A639-6CD562962037}|Entidades\\Entidades.csproj|c:\\users\\joaqu\\onedrive\\desktop\\techstore_s.a\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA88B9FC-227C-4AAF-A639-6CD562962037}|Entidades\\Entidades.csproj|solutionrelative:entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA88B9FC-227C-4AAF-A639-6CD562962037}|Entidades\\Entidades.csproj|c:\\users\\joaqu\\onedrive\\desktop\\techstore_s.a\\entidades\\productosucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA88B9FC-227C-4AAF-A639-6CD562962037}|Entidades\\Entidades.csproj|solutionrelative:entidades\\productosucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA88B9FC-227C-4AAF-A639-6CD562962037}|Entidades\\Entidades.csproj|c:\\users\\joaqu\\onedrive\\desktop\\techstore_s.a\\entidades\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA88B9FC-227C-4AAF-A639-6CD562962037}|Entidades\\Entidades.csproj|solutionrelative:entidades\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|c:\\users\\joaqu\\onedrive\\desktop\\techstore_s.a\\vista\\formcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|solutionrelative:vista\\formcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|c:\\users\\joaqu\\onedrive\\desktop\\techstore_s.a\\vista\\formcategorias.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80E8249-6E54-4BCB-BA3A-FED1A94E7DEA}|Vista\\Vista.csproj|solutionrelative:vista\\formcategorias.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormClientes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\FormClientes.Designer.cs",
+              "RelativeDocumentMoniker": "Vista\\FormClientes.Designer.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\FormClientes.Designer.cs",
+              "RelativeToolTip": "Vista\\FormClientes.Designer.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAmwHIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:27:01.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repositorio.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Modelo\\Repositorio.cs",
+              "RelativeDocumentMoniker": "Modelo\\Repositorio.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Modelo\\Repositorio.cs",
+              "RelativeToolTip": "Modelo\\Repositorio.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAkwNYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T19:47:30.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\Menu.cs",
+              "RelativeDocumentMoniker": "Vista\\Menu.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\Menu.cs",
+              "RelativeToolTip": "Vista\\Menu.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:46:37.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\Menu.cs",
+              "RelativeDocumentMoniker": "Vista\\Menu.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:44:45.816Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\FormVentas.cs",
+              "RelativeDocumentMoniker": "Vista\\FormVentas.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\FormVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FormVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:43:00.893Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormSucursales.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\FormSucursales.cs",
+              "RelativeDocumentMoniker": "Vista\\FormSucursales.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\FormSucursales.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FormSucursales.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:42:59.533Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\FormReportes.cs",
+              "RelativeDocumentMoniker": "Vista\\FormReportes.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\FormReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FormReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:42:38.604Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\FormProductos.cs",
+              "RelativeDocumentMoniker": "Vista\\FormProductos.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\FormProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FormProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:02:24.177Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Entidades\\Producto.cs",
+              "RelativeDocumentMoniker": "Entidades\\Producto.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Entidades\\Producto.cs",
+              "RelativeToolTip": "Entidades\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T19:15:51.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormProductos.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\FormProductos.cs",
+              "RelativeDocumentMoniker": "Vista\\FormProductos.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\FormProductos.cs",
+              "RelativeToolTip": "Vista\\FormProductos.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAcwEwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T19:12:53.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormClientes.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\FormClientes.cs",
+              "RelativeDocumentMoniker": "Vista\\FormClientes.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\FormClientes.cs",
+              "RelativeToolTip": "Vista\\FormClientes.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAIwHcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T19:03:04.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controladora.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Controladora\\Controladora.cs",
+              "RelativeDocumentMoniker": "Controladora\\Controladora.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Controladora\\Controladora.cs",
+              "RelativeToolTip": "Controladora\\Controladora.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAIwHoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T19:19:03.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\FormClientes.cs",
+              "RelativeDocumentMoniker": "Vista\\FormClientes.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\FormClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FormClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:27:15.569Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Entidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "Entidades\\Cliente.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Entidades\\Cliente.cs",
+              "RelativeToolTip": "Entidades\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:16:42.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormProductos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\FormProductos.Designer.cs",
+              "RelativeDocumentMoniker": "Vista\\FormProductos.Designer.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\FormProductos.Designer.cs",
+              "RelativeToolTip": "Vista\\FormProductos.Designer.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAmwFsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T21:00:50.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Entidades\\Categoria.cs",
+              "RelativeDocumentMoniker": "Entidades\\Categoria.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Entidades\\Categoria.cs",
+              "RelativeToolTip": "Entidades\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T19:19:09.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Sucursal.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Entidades\\Sucursal.cs",
+              "RelativeDocumentMoniker": "Entidades\\Sucursal.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Entidades\\Sucursal.cs",
+              "RelativeToolTip": "Entidades\\Sucursal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:04:55.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductoSucursal.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Entidades\\ProductoSucursal.cs",
+              "RelativeDocumentMoniker": "Entidades\\ProductoSucursal.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Entidades\\ProductoSucursal.cs",
+              "RelativeToolTip": "Entidades\\ProductoSucursal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:05:16.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormCategorias.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\FormCategorias.Designer.cs",
+              "RelativeDocumentMoniker": "Vista\\FormCategorias.Designer.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\FormCategorias.Designer.cs",
+              "RelativeToolTip": "Vista\\FormCategorias.Designer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T19:18:37.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormCategorias.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\FormCategorias.cs",
+              "RelativeDocumentMoniker": "Vista\\FormCategorias.cs",
+              "ToolTip": "C:\\Users\\joaqu\\OneDrive\\Desktop\\TechStore_S.A\\Vista\\FormCategorias.cs",
+              "RelativeToolTip": "Vista\\FormCategorias.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T19:10:44.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
